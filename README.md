@@ -24,7 +24,7 @@ I'm a passionate IT student with a strong foundation in programming and a growin
 - 🌱 **Currently Learning**: Data Structures & Algorithms, Web Development, Software Engineering
 - 💻 **Programming**: C, C++, Java, JavaScript
 - 🌐 **Web Technologies**: HTML, CSS, JavaScript
-- 🎯 **2025 Goals**: Build impactful projects, contribute to open-source, master DSA
+- 🎯 **2026 Goals**: Build impactful projects, contribute to open-source, master DSA
 - 🔭 **Working On**: Preparing my GitHub portfolio with exciting projects
 - 💡 **Interests**: Problem Solving, Competitive Programming, Full-Stack Development
 - 📫 **How to reach me**: Connect with me on GitHub!
